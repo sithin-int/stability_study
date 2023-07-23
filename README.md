@@ -6,6 +6,6 @@ This repository contains data and code accompanying our publication "Stability o
 
 `Please cite the paper if you find the shared codes and information useful!`
 
-`Publication available @ Thulasi Seetha S, Garanzini E, Tenconi C, Marenghi C, Avuzzi B, Catanzaro M, Stagni S, Villa S, Chiorda BN, Badenchini F, et al. Stability of Multi-Parametric Prostate MRI Radiomic Features to Variations in Segmentation. Journal of Personalized Medicine. 2023; 13(7):1172. https://doi.org/10.3390/jpm13071172`
+`Thulasi Seetha S, Garanzini E, Tenconi C, Marenghi C, Avuzzi B, Catanzaro M, Stagni S, Villa S, Chiorda BN, Badenchini F, et al. Stability of Multi-Parametric Prostate MRI Radiomic Features to Variations in Segmentation. Journal of Personalized Medicine. 2023; 13(7):1172. https://doi.org/10.3390/jpm13071172`
 
 `Instructions on executing the jupyter notebooks will be updated shortly`
